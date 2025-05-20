@@ -21,8 +21,8 @@ authentication.
 
 .. _hosted-push:
 
-Accessing repositories from Hosted Weblate
-++++++++++++++++++++++++++++++++++++++++++
+Accessing 
+weblate kluch SSH
 
 For Hosted Weblate, there is a dedicated push user registered on GitHub,
 Bitbucket, Codeberg, and GitLab (with the username :guilabel:`weblate`, e-mail
